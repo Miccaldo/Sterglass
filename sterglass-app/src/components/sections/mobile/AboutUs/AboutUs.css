@@ -1,0 +1,50 @@
+.about-us-container{
+    padding-top: 30px;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.mobile-about-us-content{
+    color: rgb(184, 184, 184);
+    margin-top: 30px;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.about-us-person-container{
+    width:100%;
+    position: relative;
+}
+
+.about-us-person-content{
+    right: 5%;
+    max-width: 250px !important;
+    color: rgb(184, 184, 184);
+}
+
+.about-us-header{
+    color: rgba(245, 245, 245, 0.932) !important;
+    margin-top: 30px !important;
+}
+
+.about-us-person-header{
+    color: rgba(245, 245, 245, 0.932) !important;
+    margin-top: 30px !important;
+    text-align: right;
+}
+
+.mobile-about-us-image{
+    position: absolute;
+    width: 100% !important;
+    border-radius: 8px;
+    padding: 5px;
+    z-index: -1;
+    border-radius: 10px;
+}
+
+.mobile-person-content-inner{
+    max-height: 250px;
+    overflow-y: auto;
+}

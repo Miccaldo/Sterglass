@@ -1,0 +1,35 @@
+.contact-container{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-label{
+    margin: 0px 0px 2px 0px;
+    font-weight: bold;
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.contact-item{
+    margin: 10px !important;
+}
+
+.contact-form-container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contact-address{
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.contact-address-label{
+    margin: 0px 0px 0px 0px !important;
+}
+
+.contact-outer{
+    display: flex;
+    justify-content: center;
+}

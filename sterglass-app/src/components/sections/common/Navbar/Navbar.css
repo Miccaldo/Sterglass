@@ -1,0 +1,28 @@
+.navbar-container{
+  border-radius: 0px !important;
+  background-color: rgba(0, 0, 0, 0.849) !important;
+  width: 100%;
+  height: 90px;
+  position: -webkit-sticky !important; /* Safari */
+	position: sticky !important;
+	top: 0 !important;
+  margin: 0 !important;
+  z-index: 999999;
+}
+
+.navbar-logo{
+  position: absolute !important;
+  top: 50%;
+  right: 20px;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  height: 50px;
+}
+
+.navbar-menu{
+  position: absolute !important;
+  font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

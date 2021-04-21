@@ -1,0 +1,45 @@
+.mobile-contact-outer{
+}
+
+.mobile-contact-container{
+    margin-top: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.mobile-contact-segment{
+    width: 100%;
+    max-width: 400px;
+}
+
+.mobile-contact-row{
+    padding: 10px 0px 0px 0px !important;
+
+}
+
+.contact-container{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.contact-label{
+    margin: 0px 0px 2px 0px;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.contact-form-container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contact-address{
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.contact-address-label{
+    margin: 0px 0px 0px 0px !important;
+}

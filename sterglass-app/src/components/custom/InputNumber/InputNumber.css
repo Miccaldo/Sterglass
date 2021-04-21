@@ -1,0 +1,34 @@
+#input-number-button-up{
+    margin: 0px !important;
+    padding: 4px !important;
+    font-size: 9px !important;
+    border-radius: 0px 0px 0px 0px !important;
+    background-color: rgb(243, 243, 243);
+}
+
+#input-number-button-up:active{
+    background-color: rgb(221, 221, 221);
+}
+
+#input-number-button-down{
+    margin: 0px !important;
+    padding: 4px !important;
+    font-size: 9px !important;
+    max-height: 20px !important;
+    border-radius: 0px 0px 0px 0px !important;
+    background-color: rgb(243, 243, 243);
+}
+
+#input-number-button-down:active{
+    background-color: rgb(221, 221, 221);
+}
+
+.input-number{
+    padding: 0px !important;
+    height: 40px !important;
+}
+
+.input-number-label-up-down{
+    padding: 0px 0px 0px 0px !important;
+    margin: 0px 0px 0px 0px !important;
+}

@@ -1,0 +1,35 @@
+.service-outer{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.service-container{
+    position: relative;
+    color: rgb(160, 160, 160) !important;
+    margin-right: 50px;
+}
+
+.service-container:last-child{
+    margin-right: 0px;
+}
+
+.service-segment{
+    width: 270px;
+    height: 320px;
+    background-color: rgba(0, 0, 0, 0.795) !important;
+}
+
+.service-image{
+    position: absolute !important;
+    width: 150px;
+    top: 0%;
+    right: 0%;
+    -ms-transform: translate(15%, -30%);
+    transform: translate(15%, -30%);
+}
+
+.service-content{
+    height: 140px !important;
+    text-align: justify;
+}

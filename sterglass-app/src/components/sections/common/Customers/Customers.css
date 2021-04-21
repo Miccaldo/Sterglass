@@ -1,0 +1,52 @@
+.customers-container{
+    padding-top: 1px;
+    background-color: rgba(0, 0, 0, 0.795);
+}
+
+.customers-header{
+    margin-bottom: 60px !important;
+    margin-top: 50px !important;
+    color: white !important;
+}
+
+.customers-image{
+    position: absolute !important;
+    padding: 20px !important;
+    max-height: 150px;
+}
+
+.customers-segment{
+    max-width: 250px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px !important;
+}
+
+.customers-separator{
+    height: 50px;
+}
+
+.carousel-slider-container{
+    padding-left: 20px;
+    width:100%;
+    justify-content: center;
+}
+
+.carousel-slider{
+}
+
+@keyframes example {
+    from {transform: translateX(0%);}
+    to {transform: translateX(100%);}
+  }
+
+.customers-logo{
+    display: inline-block;
+}
+
+.customers-logos-container{
+    animation-name: example;
+    animation-duration: 4s;
+}

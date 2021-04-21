@@ -1,0 +1,60 @@
+.mobile-offer-segment{
+    margin-top: 30px;
+    height: auto;
+    width: 100%;
+    max-width: 400px;
+}
+
+.mobile-offer-outer-div{
+    width: 100%;
+    display: flex !important;
+    justify-content: center !important;
+    margin-bottom: 40px;
+}
+
+.mobile-offer-container{
+}
+
+.mobile-offer-outer{
+}
+
+.mobile-offer-row{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.mobile-offer-content{
+    z-index: 0;
+}
+
+.mobile-offer-description-container{
+    text-align: left;
+    width: 100%;
+    height: 150px;
+}
+
+.mobile-offer-description-inner{
+    overflow-y: auto;
+    height: 100px;
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.mobile-offer-image{
+    position: absolute !important;
+    z-index: -1;
+    width: 100%;
+    height: 580px;
+}
+
+.mobile-offer-price{
+    background-color: #dfdfdf !important;
+    margin-top: 20px !important;
+}
+
+.mobile-offer-form-button{
+    position: absolute;
+    left: 30%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    padding: 25px 30px 25px 30px !important;
+}

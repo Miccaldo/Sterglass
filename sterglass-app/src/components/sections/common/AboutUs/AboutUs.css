@@ -1,0 +1,42 @@
+.about-us-container{
+    padding-top: 30px;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.about-us-content{
+    color: rgb(184, 184, 184);
+    margin-top: 30px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.about-us-person-container{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.about-us-person-content{
+    width: 400px !important;
+    color: rgb(184, 184, 184);
+}
+
+.about-us-header{
+    color: rgba(245, 245, 245, 0.932) !important;
+    margin-top: 30px !important;
+}
+
+.about-us-image{
+    width: 500px !important;
+    border-radius: 8px;
+    padding: 5px;
+    z-index: -1;
+    margin-bottom: 70px !important;
+    border-radius: 10px;
+}
+
+.person-content-inner{
+    max-height: 250px;
+    overflow-y: auto;
+}

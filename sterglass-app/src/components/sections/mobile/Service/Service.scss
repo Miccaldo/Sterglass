@@ -1,0 +1,29 @@
+.mobile-service-container{
+    position: relative;
+    color: rgb(160, 160, 160) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.mobile-service-segment{
+    margin-top: 40px !important;
+    width: 300px;
+    height: 320px;
+    background-color: rgba(0, 0, 0, 0.795) !important;
+}
+
+.service-image{
+    position: absolute !important;
+    width: 150px;
+    top: 0%;
+    right: 0%;
+    -ms-transform: translate(15%, -30%);
+    transform: translate(15%, -30%);
+}
+
+.service-content{
+    height: 140px !important;
+    text-align: justify;
+}

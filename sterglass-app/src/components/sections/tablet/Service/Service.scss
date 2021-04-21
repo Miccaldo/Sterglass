@@ -1,0 +1,39 @@
+.service-outer{
+}
+
+.table-service-outer{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.tablet-service-container{
+    display: inline-block;
+    position: relative;
+    color: rgb(160, 160, 160) !important;
+    margin-right: 20px;
+}
+
+.tablet-service-container:last-child{
+    margin-right: 0px;
+}
+
+.tablet-service-segment{
+    width: 230px;
+    height: 320px;
+    background-color: rgba(0, 0, 0, 0.795) !important;
+    transform: scale(0.8);
+}
+
+.tablet-service-image{
+    position: absolute !important;
+    width: 150px;
+    top: 0%;
+    right: 0%;
+    -ms-transform: translate(15%, -30%);
+    transform: translate(15%, -30%);
+}
+
+.tablet-service-content{
+    height: 140px !important;
+    text-align: justify;
+}
